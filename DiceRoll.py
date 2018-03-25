@@ -33,22 +33,3 @@ while check:
         x = input("Pick a dice: ")
         roll(x)
         
-
-
-
-
-"""
-if choice == "D20" or choice == "d20":
-    print(D20)
-elif choice == "D10" or choice == "d10":
-    print(D10)
-elif choice == "D8" or choice == "d8":
-    print(D8)
-elif choice == "D6" or choice == "d6":
-    print(D6)
-elif choice == "D4" or choice == "d4":
-    print(D4)
-else:
-    print("I'm sorry, I didn't quite get that")
-    choice = input( )
-"""
