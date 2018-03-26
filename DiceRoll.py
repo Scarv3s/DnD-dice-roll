@@ -31,5 +31,4 @@ while check:
         check = True
         print("Sorry, I didn't quite catch that.")
         x = input("Pick a dice: ")
-        roll(x)
         
