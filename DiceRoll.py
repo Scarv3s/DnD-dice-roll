@@ -18,7 +18,7 @@ def roll(choice):
         print(D6)
     elif choice in ("D4", "d4"):
         print(D4)
-        
+
 x = input("Dice: ")
 check = True
 while check:
@@ -31,4 +31,5 @@ while check:
         check = True
         print("Sorry, I didn't quite catch that.")
         x = input("Pick a dice: ")
-        
+
+input()
